@@ -1,0 +1,22 @@
+{
+  "name": "app_with_node_and_express",
+  "description": "web app using node and express",
+  "main": "app.js",
+  "authors": [
+    "Sourav"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/sourav2406/nodeAndExpress",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0"
+  }
+}

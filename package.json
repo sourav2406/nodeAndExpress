@@ -1,0 +1,23 @@
+{
+  "name": "app_with_node_and_express",
+  "version": "1.0.0",
+  "description": "web app using node and express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav2406/nodeAndExpress.git"
+  },
+  "author": "Sourav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourav2406/nodeAndExpress/issues"
+  },
+  "homepage": "https://github.com/sourav2406/nodeAndExpress#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
